@@ -93,6 +93,7 @@ npm install react
    }
 ```
 
+![альтернативный текст картинки]https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/260px-Markdown-mark.svg.png
 
 
 Markdown - что за язык и как им пользоваться
