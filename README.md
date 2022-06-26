@@ -92,14 +92,37 @@ npm install react
        margin: 1 rem;
    }
 ```
+<!--Картинки в Markdown-->
+Картинки в Markdown:
+
+Картинка-1:
 
 ![Альтернативный текст картинки-1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png)
 
+Картинка-2:
+
 ![Альтернативный текст картинки-2](https://www.gatsbyjs.com/_gatsby/image/e6976832ec63c547cbe1f11273cfc640/d68e08058a6f56bec56ce677733498ed/Hero%20visual.avif?u=https%3A%2F%2Fimages.ctfassets.net%2Fvkdbses00qqt%2FGzjal4V50EhyQc5sL8cjO%2F9063ef2217c170ef1fe054c2be358147%2FHero_visual.png&a=w%3D1600%26h%3D1259%26fm%3Davif%26q%3D75)
+
+Картинка-3:
 
 ![Альтернативный текст картинки-3](https://trofimovdigital.ru/wp-content/uploads/markdown-guide/markdown-guide.jpg)
 
+Картинка-4:
+
 ![Альтернативный текст картинки-4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwq4lu9d9KmKPKHL3gR0FSwns_in8QsEGgtX7pFzWj-bt6LngbSMjCebp-BmYXq6_FkA0&usqp=CAU)
+
+<!--Цитаты в markdown-->
+Цитаты в markdown:
+
+>Первая цитата в Markdown
+
+>Еще какая-то цитата в Markdown
+
+>Вообще, цитаты в Markdown пишутся крайне просто:
+ достаточно поставить знак ">" и дальше записать 
+ текст цитаты. 
+
+ 
 
 Markdown - что за язык и как им пользоваться
 
