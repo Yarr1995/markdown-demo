@@ -223,9 +223,20 @@ ___
 <!--Добавление YouTube-видео в markdown-->
 Добавление YouTube-видео в markdown:
 
+Видео-1:
+
   [![Альтернативный текст](https://i.ytimg.com/vi/iguB3BKGSLo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASA9YvcayMo8fNNk5DYZZt9QDfkw)](https://www.youtube.com/watch?v=iguB3BKGSLo)
 
   ---
+Видео-2:
+
+[![Альтернативный текст видео](https://i.ytimg.com/vi/uCNWuSbPnt4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJK2uWHiYvX7_3dyS5MC0UNzan4g)](https://www.youtube.com/watch?v=uCNWuSbPnt4)
+
+***
+
+Видео-3:
+
+[![Альтернативный текст к видео](https://i.ytimg.com/vi/Pkh8UtuejGw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlEom4rIygiHjjwOiSd0at0nRFPg)](https://www.youtube.com/watch?v=Pkh8UtuejGw)
 
 Markdown - что за язык и как им пользоваться
 
