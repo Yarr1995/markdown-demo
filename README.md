@@ -220,7 +220,12 @@ ___
 <!--Горизонтальный разделитель не входит в синтаксис cписка дел в markdown-->
 
 
+<!--Добавление YouTube-видео в markdown-->
+Добавление YouTube-видео в markdown:
 
+  [![Альтернативный текст](https://i.ytimg.com/vi/iguB3BKGSLo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASA9YvcayMo8fNNk5DYZZt9QDfkw)](https://www.youtube.com/watch?v=iguB3BKGSLo)
+
+  ---
 
 Markdown - что за язык и как им пользоваться
 
