@@ -122,6 +122,12 @@ ___
 
 [GitHub](https://github.com)
 
+[Puzzle Movies](https://puzzle-movies.com/)
+
+[jsfiddle](https://jsfiddle.net/)
+
+***
+
 <!--Выделение кода в markdown-->
 Выделение кода в markdown:
 
