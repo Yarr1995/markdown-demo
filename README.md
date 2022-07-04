@@ -90,6 +90,22 @@ ___
 4. item 4
 8. item 5
 
+Еще один вложенный список:
+1. item 1
+   * item 1.1
+   * item 1.2
+   * item 1.3
+1. item 2
+   * item 2.1
+   * item 2.2
+   * item 2.3
+1. item 3
+   * item 3.1
+   * item 3.2
+   * item 3.3
+
+   ---
+
 <!--Ссылки в markdown-->
 Ссылки в markdown:
 
