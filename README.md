@@ -170,6 +170,41 @@ npm install react
        margin: 1 rem;
    }
 ```
+
+Другие примеры javascript-кода:
+
+```javascript
+function perimeterSequence(a,n) {
+  var perimeter = a*4;
+  if(n>=1){
+    return perimeter *n;
+  }
+}
+```
+
+```javascript
+function opposite(number) {
+  return number > 0 ? Number('-'+number) : Number(String(number).split('').slice(1).join(''))
+}
+```
+
+```javascript
+function fakeBin(strOfDigits){
+ let arr =[];
+  strOfDigits.split("").map(numstr =>{
+    if(+numstr >=5){
+      arr.push(1);
+    }
+    else{
+      arr.push(0);
+    }
+  })
+  return arr.join("");
+}
+```
+
+***
+
 <!--Картинки в Markdown-->
 Картинки в Markdown:
 
