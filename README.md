@@ -144,6 +144,21 @@ ___
 
 ___
 
+Ссылки, выделенные __жирным__  *курсивом*:
+
+[**_Google_**](https://google.com)
+
+[**_YouTube_**](https://youtube.com)
+
+[**_Puzzle English_**](https://puzzle-english.com)
+
+[**_GitHub_**](https://github.com)
+
+[**_Puzzle Movies_**](https://puzzle-movies.com/)
+
+[**_jsfiddle_**](https://jsfiddle.net/)
+
+---
 
 <!--Выделение кода в markdown-->
 Выделение кода в markdown:
