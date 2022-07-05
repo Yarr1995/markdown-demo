@@ -203,6 +203,22 @@ function fakeBin(strOfDigits){
 }
 ```
 
+```javascript
+function even_or_odd(number) {
+  return number % 2 ===0 ?"Even" :"Odd";
+}
+```
+
+```javascript
+function century(year) {
+  return Math.ceil(year /100);
+}
+```
+
+```javascript
+const century = (year) => (year % 100 === 0 ? parseInt(year / 100, 10) : parseInt(year / 100, 10) + 1)
+```
+
 ***
 
 <!--Картинки в Markdown-->
