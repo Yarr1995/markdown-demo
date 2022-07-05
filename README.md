@@ -128,6 +128,23 @@ ___
 
 ***
 
+Ссылки, выделенные __жирным__ текстом:
+
+[__Google__](https://google.com)
+
+[**YouTube**](https://youtube.com)
+
+[__Puzzle English__](https://puzzle-english.com)
+
+[**GitHub**](https://github.com)
+
+[__Puzzle Movies__](https://puzzle-movies.com/)
+
+[**jsfiddle**](https://jsfiddle.net/)
+
+___
+
+
 <!--Выделение кода в markdown-->
 Выделение кода в markdown:
 
@@ -254,6 +271,17 @@ ___
 * [x] Todo 5
 ---
 <!--Горизонтальный разделитель не входит в синтаксис cписка дел в markdown-->
+
+Такой же список, но жирный:
+
+* [x] **Todo 1**
+* [x] __Todo 2__
+* [x] __Todo 3__
+* [x] **Todo 4**
+* [x] **Todo 5**
+
+___
+
 Отображение серых  чекбоксов без серой
  галочки на GitHub:
 
